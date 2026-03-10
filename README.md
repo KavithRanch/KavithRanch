@@ -1,6 +1,6 @@
 ## Hi there I'm Kavith Ranchagoda!
 
-## Welcome to my Github 
+![golf animation](./custom_images/golf3.gif)
 
 <!--
 **KavithRanch/KavithRanch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
