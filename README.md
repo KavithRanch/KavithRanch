@@ -1,4 +1,4 @@
-## Hi there I'm Kavith Ranchagoda!
+## Hi I'm Kavith Ranchagoda & thanks for stopping by!
 
 ![golf animation](./GolfKR.gif)
 
