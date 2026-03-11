@@ -24,7 +24,7 @@ Turning gaps in the markets I'm passionate about into software solutions
 * Finishing up my Software Engineering degree at McMaster University
 * Building RanchEdge - A transparent sports data analytics platform using historical stats to reveal favorable outcomes in the sporting world
 * Tightening up my golf game for the 2026 season
-* Experimenting with new flavours in the kitchen from East & South Asia
+* Experimenting with new flavours in the kitchen from East & South Asian cuisine
 
 ---
 
