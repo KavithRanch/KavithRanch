@@ -10,12 +10,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavithRanch&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavithRanch&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavithRanch&layout=compact&theme=tokyonight"/>
-</p>
+---
 
 ### :date: What I'm upto right now 
 * Finishing up my Software Engineering degree at McMaster University
@@ -32,10 +30,15 @@
 ---
 
 <h3 align="center">📫 Connect with me</h3>
+
 <p align="center">
+  <a href="mailto:kavithranch@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/kavithranchagoda/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
-  </a>
+  </a>  
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/kavith.ranchagoda/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" />
