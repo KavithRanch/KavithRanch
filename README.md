@@ -11,7 +11,7 @@ Aspiring Software Engineer • Golfer • Hobby Collector
 </h3>
 
 <p align="center">
-Turning gaps in markets I'm passionate about into software solutions
+Turning gaps in the markets I'm passionate about into software solutions
 </p>
 
 <p align="center">
@@ -37,15 +37,15 @@ Turning gaps in markets I'm passionate about into software solutions
 <h3 align="center">📫 Connect with me</h3>
 
 <p align="center">
-  <a href="mailto:kavithranch@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:kavithranch@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/kavithranchagoda/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/kavithranchagoda/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" />
   </a>  
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/kavith.ranchagoda/" target="_blank" rel="noopener noreferrer">
+  <a href="https://instagram.com/kavith.ranchagoda/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" />
   </a>
 </p>
