@@ -1,13 +1,18 @@
-<h2 align="center">Hi I'm Kavith Ranchagoda - thanks for swinging by!</h2>
+<p align="center">
+  <h1>Hi I'm Kavith Ranchagoda - thanks for swinging by! ⛳</h1>
+</p>
 
 <p align="center">
   <img src="./GolfKR.gif" width="700"/>
 </p>
 
 <h3 align="center">
-  <b>Aspiring Software Engineer • Golfer • Hobbie Collector</b><br>
-  Turning gap in markets I'm passionate about into software solutions
+Aspiring Software Engineer • Golfer • Hobby Collector
 </h3>
+
+<p align="center">
+Turning gaps in markets I'm passionate about into software solutions
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavithRanch&layout=compact&langs_count=6&theme=tokyonight"/>
