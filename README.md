@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">
-Aspiring Software Engineer • Golfer • Hobby Collector
+Aspiring Software Engineer • Golfer • Avid Hobby Collector
 </h3>
 
 <p align="center">
