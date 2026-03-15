@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Hi I'm Kavith Ranchagoda - thanks for swinging by! ⛳</h1>
+  <h1>Hi I'm Kavith Ranchagoda - Thanks for swinging by! ⛳</h1>
 </p>
 
 <p align="center">
