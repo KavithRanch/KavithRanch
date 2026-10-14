@@ -21,8 +21,8 @@ Turning gaps in the markets I'm passionate about into software solutions
 ---
 
 ### :date: What I'm upto right now 
-* Finishing up my Software Engineering degree at McMaster University
-* Building RanchEdge - A transparent sports data analytics platform using historical stats to reveal favorable outcomes in the sporting world
+* Just wrapped up my Software Engineering Degree at McMaster University
+* Contract Software Engineer @ LTM
 * Tightening up my golf game for the 2026 season
 * Experimenting with new flavours in the kitchen from East & South Asian cuisine
 
